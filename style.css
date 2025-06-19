@@ -25,6 +25,11 @@ nav a {
   max-width: 1000px;
   margin: auto;
 }
+h1 {
+    font-size: 36px;
+    letter-spacing: 0.4px;
+    color: #fff;
+}
 .bio {
   display: flex;
   flex-wrap: wrap;
